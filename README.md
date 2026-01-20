@@ -47,6 +47,12 @@ Este ecossistema foi estruturado para ser uma base sólida e escalável para apl
 
 ## 🚀 Como Executar o Projeto
 
+### Pré-requisitos
+* **Node.js** instalado (versão 16 ou superior).
+* **NPM** (geralmente instalado com o Node).
+
+### Instalação
+
 Siga os passos abaixo para rodar a aplicação em sua máquina local:
 1. **Instale as dependências:**
  ```bash
@@ -58,3 +64,9 @@ npm run dev
 ```
 
 > **Nota:** O projeto estará disponível em `http://localhost:3000` por padrão.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
